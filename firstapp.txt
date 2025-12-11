@@ -2,3 +2,5 @@ og version of the app
 new chnages why not
 
 Ligne modifiée par A.
+
+Line modifiee par B.
